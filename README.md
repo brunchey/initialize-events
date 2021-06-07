@@ -1,4 +1,4 @@
-#Axon Event Store Event Initializer
+# Axon Event Store Event Initializer
 Simple application showing how to push events into an event store without having to go through the whole command side processing
 
 ## Prerequisites
